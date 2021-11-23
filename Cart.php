@@ -62,7 +62,6 @@
 			?>
           
           
-          
           <style class="u-sticky-style" data-style-id="b555">.u-sticky-fixed.u-sticky-b555:before, .u-body.u-sticky-fixed .u-sticky-b555:before {
 borders: top right bottom left !important
 }</style>
